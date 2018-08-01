@@ -14,4 +14,4 @@ import React, { Component } from 'react';
 import {  AppRegistry } from 'react-native'
 import App from './example/App' //<-- simply point to the example js!
 
-AppRegistry.registerComponent('hellobluetooth2', () => App);
+AppRegistry.registerComponent('hellobluetooth2', () => App)
